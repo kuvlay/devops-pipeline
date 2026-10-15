@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aarish-io/devops-pipeline.git"
+    "url": "git+https://github.com/kuvlay/devops-pipeline.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/aarish-io/devops-pipeline/issues"
+    "url": "https://github.com/kuvlay/devops-pipeline/issues"
   },
-  "homepage": "https://github.com/aarish-io/devops-pipeline#readme"
+  "homepage": "https://github.com/kuvlay/devops-pipeline#readme"
 }
